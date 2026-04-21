@@ -38,7 +38,14 @@ The booking process allows passengers to select from available departure times, 
 - Object-Oriented Programming (OOP)
 - NetBeans
 
+## Learning Outcomes
+This project demonstrates:
 
+- Basic Java programming
+- Class inheritance
+- Arrays and object handling
+- User input handling with Scanner
+- Menu-driven application design
 
 ## Project Structure
 
